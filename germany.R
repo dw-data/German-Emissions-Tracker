@@ -1,6 +1,3 @@
-#Set work directory
-setwd("C:/Users/ajitn/Documents/R")
-
 #Load packages
 library(tidyverse)
 library(ggplot2)
