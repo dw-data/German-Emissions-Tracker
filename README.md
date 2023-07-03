@@ -6,7 +6,7 @@ Research, Data analysis, Data visualization, Writing: [Ajit Niranjan](https://tw
 
 Editing: [Jennifer Collins](https://twitter.com/freejournalism), [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
-You can read the story in [English]() and [German]()
+You can read the story in English [here](https://dw.com/data)
 
 DW is documenting Germany's progress towards its climate goals. The tracker focuses on the six policy areas specified in its climate law: power, industry, buildings, transport, agriculture and waste.
 
